@@ -60,6 +60,8 @@ The Stock Price Prediction project employs the following key components:
 
 ## Results
 
+![Future Prediction](https://user-images.githubusercontent.com/113460291/258612240-1a176356-ab70-4b0b-a60f-68e8841fb6e4.png)
+
 The project provides insights into the prediction of stock prices using LSTM networks. Key results include:
 
 - Visualizations of historical stock prices, training and test data, as well as predicted future prices.
